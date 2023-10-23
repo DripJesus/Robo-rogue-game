@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1698023521
+::res://::1698024427
 backup.gd::GDScript::-1::1697965768::0::1::::<>CharacterBody2D<>::
 bullet.gd::GDScript::-1::1697965768::0::1::::Bullet<>Area2D<>::
 CharacterBody2D.gd::GDScript::-1::1697965768::0::1::::TankEnemy<>CharacterBody2D<>::
@@ -18,7 +18,7 @@ global.gd::GDScript::-1::1697965768::0::1::::<>Node<>::
 global.tscn::PackedScene::7205804821945473192::1697965768::0::1::::<><>::res://global.gd
 icon.svg::CompressedTexture2D::3240902412466039527::1697965768::1697965808::1::::<><>::
 Readme.txt::TextFile::-1::1697965768::0::1::::<><>::
-State Machine.gd::GDScript::-1::1698022501::0::1::::<>Node<>::
+State Machine.gd::GDScript::-1::1698023972::0::1::::<>Node<>::
 state.gd::GDScript::-1::1697965768::0::1::::State<>Node<>::
 TankEnemyFollow.gd::GDScript::-1::1697965768::0::1::::TankEnemyFollow<>State<>::
 UI.tscn::PackedScene::2443269481862278574::1697965768::0::1::::<><>::
@@ -28,35 +28,35 @@ bullet.tscn::PackedScene::28294036942449880::1697965768::0::1::::<><>::res://bul
 FoysSwZWAAwhDiQ.jpg::CompressedTexture2D::8834604797055728795::1697965768::1697965768::1::::<><>::
 latest-1768917016.png::CompressedTexture2D::8779986855311479939::1697965768::1697965768::1::::<><>::
 latest-2974687507.png::CompressedTexture2D::2012977674794184336::1697965768::1697965768::1::::<><>::
-::res://Characters/::1698023291
+::res://Characters/::1698023972
 Camera2D.gd::GDScript::-1::1697965768::0::1::::<>Camera2D<>::
 Character Sprite.gd::GDScript::-1::1697965768::0::1::::<>RefCounted<>::
 gun2.gd::GDScript::-1::1697965768::0::1::::<>Sprite2D<>::
 gun.gd::GDScript::-1::1697965768::0::1::::<>Sprite2D<>::
 player_character.gd::GDScript::-1::1698023218::0::1::::<>CharacterBody2D<>::
-player_character.tscn::PackedScene::5599093986936603226::1698023291::0::1::::<><>::uid://dd1ax72jm8kp1::::res://Sprites/Prototype/Prototype_Worksheet.png<>res://Characters/player_character.gd<>uid://dixofonps7hgc::::res://Sprites/Prototype/shitgun.png<>res://Characters/gun.gd<>res://Characters/gun2.gd<>res://Characters/Camera2D.gd<>res://Game Level/Label.gd
+player_character.tscn::PackedScene::5599093986936603226::1698023972::0::1::::<><>::uid://dd1ax72jm8kp1::::res://Sprites/Prototype/Prototype_Worksheet.png<>res://Characters/player_character.gd<>uid://dixofonps7hgc::::res://Sprites/Prototype/shitgun.png<>res://Characters/gun.gd<>res://Characters/gun2.gd<>res://Characters/Camera2D.gd<>res://Game Level/Label.gd
 Sprite2D2.gd::GDScript::-1::1697965768::0::1::::<>Sprite2D<>::
 ::res://Dash Stuff/::1697965768
 DashGhost.tscn::PackedScene::203606188415509158::1697965768::0::1::::<><>::uid://dd1ax72jm8kp1
-::res://Enemy/::1698023291
+::res://Enemy/::1698023972
 1200px-ChatGPT_logo.png::CompressedTexture2D::8344155348529443476::1697965768::1697965768::1::::<><>::
 BasicHealth.gd::GDScript::-1::1697965768::0::1::::<>Node<>::
-enemy.tscn::PackedScene::9028180205298565802::1698023291::0::1::::<><>::res://CharacterBody2D.gd<>uid://dbb0j3l1kbc3a::::res://Sprites/Enemies/290-1425191543.png<>res://State Machine.gd<>res://enemyIdle.gd<>res://EnemyFollow.gd
+enemy.tscn::PackedScene::9028180205298565802::1698023972::0::1::::<><>::res://CharacterBody2D.gd<>uid://dbb0j3l1kbc3a::::res://Sprites/Enemies/290-1425191543.png<>res://State Machine.gd<>res://enemyIdle.gd<>res://EnemyFollow.gd
 TankEnemy.gd::GDScript::-1::1697965768::0::1::::BasicEnemy<>CharacterBody2D<>::
-TankEnemy.tscn::PackedScene::1523951089431238353::1698023291::0::1::::<><>::res://Enemy/TankEnemy.gd<>uid://c7mbsntbh0r0c::::res://Sprites/Enemies/latest-467068657.png<>res://State Machine.gd<>res://enemyIdle.gd<>res://EnemyFollow.gd<>res://TankEnemyFollow.gd
+TankEnemy.tscn::PackedScene::1523951089431238353::1698023972::0::1::::<><>::res://Enemy/TankEnemy.gd<>uid://c7mbsntbh0r0c::::res://Sprites/Enemies/latest-467068657.png<>res://State Machine.gd<>res://enemyIdle.gd<>res://EnemyFollow.gd<>res://TankEnemyFollow.gd
 TankHealth.gd::GDScript::-1::1697965768::0::1::::<>Node<>::
 ::res://Extras/::1697965768
 Shadow.png::CompressedTexture2D::908524858125477478::1697965768::1697965768::1::::<><>::
-::res://Game Level/::1698023291
-game_level.tscn::PackedScene::2104395142847668569::1698023291::0::1::::<><>::uid://bmf6go0s6t74f::::res://icon.svg<>uid://cl1ii3qf1nkw5::::res://Characters/player_character.tscn<>uid://dfxpocgif0jdy::::res://Scrap Counter/scrap.tscn<>uid://dt3adx353558c::::res://UI/UI.tscn<>uid://vyhitcnh6vdp::::res://Enemy/TankEnemy.tscn<>uid://d1vk2re43vyra::::res://enemy.tscn
+::res://Game Level/::1698023972
+game_level.tscn::PackedScene::2104395142847668569::1698023972::0::1::::<><>::uid://bmf6go0s6t74f::::res://icon.svg<>uid://cl1ii3qf1nkw5::::res://Characters/player_character.tscn<>uid://dfxpocgif0jdy::::res://Scrap Counter/scrap.tscn<>uid://dt3adx353558c::::res://UI/UI.tscn<>uid://vyhitcnh6vdp::::res://Enemy/TankEnemy.tscn<>uid://d1vk2re43vyra::::res://enemy.tscn
 Health.gd::GDScript::-1::1697965768::0::1::::Health<>BasicEnemy<>::
-Label.gd::GDScript::-1::1698022501::0::1::::<>Label<>::
+Label.gd::GDScript::-1::1698023972::0::1::::<>Label<>::
 th-932838446.jpg::CompressedTexture2D::5311581243332317453::1697965768::1697965768::1::::<><>::
-::res://Scrap Counter/::1698023291
+::res://Scrap Counter/::1698023972
 Scrap Counter.gd::GDScript::-1::1697965768::0::1::::<>Label<>::
 scrap.gd::GDScript::-1::1697965768::0::1::::<>Area2D<>::
-scrap.tscn::PackedScene::7558622828305690426::1698023291::0::1::::<><>::res://Scrap Counter/scrap.gd<>uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png
-scrap_counter.tscn::PackedScene::6848431362750013487::1698023291::0::1::::<><>::res://Scrap Counter/Scrap Counter.gd<>uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png
+scrap.tscn::PackedScene::7558622828305690426::1698023972::0::1::::<><>::res://Scrap Counter/scrap.gd<>uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png
+scrap_counter.tscn::PackedScene::6848431362750013487::1698023972::0::1::::<><>::res://Scrap Counter/Scrap Counter.gd<>uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png
 ::res://Sprites/::1697965768
 pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png::CompressedTexture2D::1797323105366145486::1697965768::1697965768::1::::<><>::
 th-932838446.jpg::CompressedTexture2D::3477967405425236857::1697965768::1697965768::1::::<><>::
@@ -71,14 +71,14 @@ latest(1).png::CompressedTexture2D::835498642308121385::1697965768::1697965768::
 latest.png::CompressedTexture2D::6021455988327668479::1697965768::1697965768::1::::<><>::
 shitgun.gd::GDScript::-1::1697965768::0::1::::<>Sprite2D<>::
 shitgun.tscn::PackedScene::7603942922779539377::1697965768::0::1::::<><>::uid://dixofonps7hgc
-::res://UI/::1698023291
+::res://UI/::1698023972
 counter.tscn::PackedScene::6952325420543911863::1697965768::0::1::::<><>::uid://0uvwcgprjgli
 interface.tscn::PackedScene::6925438450313624084::1697965768::0::1::::<><>::uid://b2pv7n1kcbxfq
 Scrap Counter.gd::GDScript::-1::1697965768::0::1::::<>Control<>::
 UI.gd::GDScript::-1::1698022230::0::1::::<>CanvasLayer<>::
-UI.tscn::PackedScene::8550659267390578892::1698023291::0::1::::<><>::res://UI/UI.gd<>uid://b2pv7n1kcbxfq::::res://UI/scrap counter/counter.tscn
-::res://UI/scrap counter/::1698023292
-counter.tscn::PackedScene::4313818053909484158::1698023292::0::1::::<><>::uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png<>res://UI/scrap counter/Label.gd
+UI.tscn::PackedScene::8550659267390578892::1698023972::0::1::::<><>::res://UI/UI.gd<>uid://b2pv7n1kcbxfq::::res://UI/scrap counter/counter.tscn
+::res://UI/scrap counter/::1698023973
+counter.tscn::PackedScene::4313818053909484158::1698023973::0::1::::<><>::uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png<>res://UI/scrap counter/Label.gd
 Label.gd::GDScript::-1::1698023291::0::1::::<>Label<>::
 ::res://UI/Theme/::1697965768
 default_theme.tres::Theme::4002607533069070389::1697965768::0::1::::<><>::
