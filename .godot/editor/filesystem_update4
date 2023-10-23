@@ -8,5 +8,3 @@ res://Enemy/TankEnemy.tscn
 res://Enemy/enemy.tscn
 res://UI/UI.tscn
 res://UI/scrap counter/counter.tscn
-res://UI/scrap counter/Label.gd
-res://Characters/player_character.gd
