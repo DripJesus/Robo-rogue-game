@@ -14,8 +14,8 @@ func _process(_delta):
 		flip_v = false
 		position.x = -3
 	var mouse_pos = get_global_mouse_position()
-	var target_direction = (get_global_mouse_position() - global_position).normalized()
-	var target_rotation = atan2(target_direction.y, target_direction.x)
+	var target_direction = (mouse_pos - global_position).normalized()
+	target_rotation = atan2(target_direction.y, target_direction.x)
 
 	# Calculate the angle difference and ensure it's within the range of -π to π
 	var angle_difference = target_rotation - rotation

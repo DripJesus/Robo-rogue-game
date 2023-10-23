@@ -17,10 +17,10 @@ func on_hit(dmg):
 			get_tree().root.add_child(scrap_instance)
 			scrap_spawned = true
 
-func _process(delta):
+func _process(_delta):
 	pass
 
-func _physics_process(delta):
+func _physics_process(_delta):
 	move_and_slide()
 
 	if velocity.length() > 0:

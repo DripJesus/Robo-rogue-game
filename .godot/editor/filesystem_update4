@@ -8,3 +8,8 @@ res://Enemy/TankEnemy.tscn
 res://Enemy/enemy.tscn
 res://UI/UI.tscn
 res://UI/scrap counter/counter.tscn
+res://enemyIdle.gd
+res://Characters/gun2.gd
+res://Characters/gun.gd
+res://Enemy/TankEnemy.gd
+res://CharacterBody2D.gd
