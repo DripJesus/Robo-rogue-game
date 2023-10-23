@@ -1,87 +1,85 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1697965568
-backup.gd::GDScript::-1::1697799983::0::1::::<>CharacterBody2D<>::
-bullet.gd::GDScript::-1::1697799983::0::1::::Bullet<>Area2D<>::
-CharacterBody2D.gd::GDScript::-1::1697800968::0::1::::TankEnemy<>CharacterBody2D<>::
-counter.tscn::PackedScene::5533668498629387787::1697802794::0::1::::<><>::uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png
-DashGhost.gd::GDScript::-1::1697799983::0::1::::<>Sprite2D<>::
-EnemtFollow.gd::GDScript::-1::1697696768::0::1::::<>Node<>::
-EnemtFollow.gd-folding-dcec50d17a393de5176cf03194a69f49.cfg::TextFile::-1::1697696768::0::1::::<><>::
-enemy.tscn::PackedScene::9028180205298565802::1697802103::0::1::::<><>::res://CharacterBody2D.gd<>res://State Machine.gd<>res://enemyIdle.gd<>uid://dq48awsgo21fk
-enemy.tscn-editstate-ec12bd2205a8e44213188668d747d7fa.cfg::TextFile::-1::1697696768::0::1::::<><>::
-enemy.tscn-folding-ec12bd2205a8e44213188668d747d7fa.cfg::TextFile::-1::1697696768::0::1::::<><>::
-EnemyFollow.gd::GDScript::-1::1697696768::0::1::::EnemyFollow<>State<>::
-EnemyFollow.gd-folding-d8c113baab66c1e39079f35bf511f2a8.cfg::TextFile::-1::1697696768::0::1::::<><>::
-enemyIdle.gd::GDScript::-1::1697696768::0::1::::EnemyIdle<>State<>::
-enemyIdle.gd-folding-d0cab8f0fa6017b3233adb2b5a1cca1d.cfg::TextFile::-1::1697696768::0::1::::<><>::
-export_presets.cfg::TextFile::-1::1697799983::0::1::::<><>::
-global.gd::GDScript::-1::1697799983::0::1::::<>Node<>::
-global.tscn::PackedScene::7205804821945473192::1697799983::0::1::::<><>::res://global.gd
-icon.svg::CompressedTexture2D::3240902412466039527::1697799983::1697800042::1::::<><>::
-Readme.txt::TextFile::-1::1697799983::0::1::::<><>::
-State Machine.gd::GDScript::-1::1697802582::0::1::::<>Node<>::
-state.gd::GDScript::-1::1697799983::0::1::::State<>Node<>::
-TankEnemyFollow.gd::GDScript::-1::1697799983::0::1::::TankEnemyFollow<>State<>::
-UI.tscn::PackedScene::2443269481862278574::1697799983::0::1::::<><>::
-::res://bullet/::1697965430
-bf7-3067498896.png::CompressedTexture2D::292880352638607414::1697699481::1697699481::1::::<><>::
-bullet.tscn::PackedScene::28294036942449880::1697799984::0::1::::<><>::res://bullet.gd<>uid://bmf6go0s6t74f
-FoysSwZWAAwhDiQ.jpg::CompressedTexture2D::8834604797055728795::1697699416::1697699416::1::::<><>::
-latest-1768917016.png::CompressedTexture2D::8779986855311479939::1697699382::1697699382::1::::<><>::
-latest-2974687507.png::CompressedTexture2D::2012977674794184336::1697704070::1697704070::1::::<><>::
-::res://Characters/::1697965430
-Camera2D.gd::GDScript::-1::1697799983::0::1::::<>Camera2D<>::
-Character Sprite.gd::GDScript::-1::1697799983::0::1::::<>RefCounted<>::
-gun2.gd::GDScript::-1::1697801227::0::1::::<>Sprite2D<>::
-gun.gd::GDScript::-1::1697801197::0::1::::<>Sprite2D<>::
-player_character.gd::GDScript::-1::1697804207::0::1::::<>CharacterBody2D<>::
-player_character.tscn::PackedScene::5599093986936603226::1697804225::0::1::::<><>::uid://dd1ax72jm8kp1::::res://Sprites/Prototype/Prototype_Worksheet.png<>res://Characters/player_character.gd<>uid://dixofonps7hgc::::res://Sprites/Prototype/shitgun.png<>res://Characters/gun.gd<>res://Characters/gun2.gd<>res://Characters/Camera2D.gd<>res://Game Level/Label.gd
-Sprite2D2.gd::GDScript::-1::1697799983::0::1::::<>Sprite2D<>::
-::res://Dash Stuff/::1697965430
-DashGhost.tscn::PackedScene::203606188415509158::1697799983::0::1::::<><>::uid://dd1ax72jm8kp1
-::res://Enemy/::1697965430
-1200px-ChatGPT_logo.png::CompressedTexture2D::8344155348529443476::1697608089::1697608093::1::::<><>::
-BasicHealth.gd::GDScript::-1::1697703044::0::1::::<>Node<>::
-enemy.tscn::PackedScene::9028180205298565802::1697804225::0::1::::<><>::res://CharacterBody2D.gd<>uid://dbb0j3l1kbc3a::::res://Sprites/Enemies/290-1425191543.png<>res://State Machine.gd<>res://enemyIdle.gd<>res://EnemyFollow.gd
-TankEnemy.gd::GDScript::-1::1697802149::0::1::::BasicEnemy<>CharacterBody2D<>::
-TankEnemy.tscn::PackedScene::1523951089431238353::1697804225::0::1::::<><>::res://Enemy/TankEnemy.gd<>uid://c7mbsntbh0r0c::::res://Sprites/Enemies/latest-467068657.png<>res://State Machine.gd<>res://enemyIdle.gd<>res://EnemyFollow.gd<>res://TankEnemyFollow.gd
-TankHealth.gd::GDScript::-1::1697703142::0::1::::<>Node<>::
-::res://Extras/::1697965430
-Shadow.png::CompressedTexture2D::908524858125477478::1697799983::1697800042::1::::<><>::
-::res://Game Level/::1697965430
-game_level.tscn::PackedScene::2104395142847668569::1697804225::0::1::::<><>::uid://bmf6go0s6t74f::::res://icon.svg<>uid://cl1ii3qf1nkw5::::res://Characters/player_character.tscn<>uid://dfxpocgif0jdy::::res://Scrap Counter/scrap.tscn<>uid://dt3adx353558c::::res://UI/UI.tscn<>uid://vyhitcnh6vdp::::res://Enemy/TankEnemy.tscn<>uid://d1vk2re43vyra::::res://enemy.tscn
-Health.gd::GDScript::-1::1697786141::0::1::::Health<>BasicEnemy<>::
-Label.gd::GDScript::-1::1697802582::0::1::::<>Label<>::
-th-932838446.jpg::CompressedTexture2D::5311581243332317453::1697703987::1697703987::1::::<><>::
-::res://Other/::1697611657
-::res://Scrap Counter/::1697965430
-Scrap Counter.gd::GDScript::-1::1697799983::0::1::::<>Label<>::
-scrap.gd::GDScript::-1::1697800989::0::1::::<>Area2D<>::
-scrap.tscn::PackedScene::7558622828305690426::1697804225::0::1::::<><>::res://Scrap Counter/scrap.gd<>uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png
-scrap_counter.tscn::PackedScene::6848431362750013487::1697804225::0::1::::<><>::res://Scrap Counter/Scrap Counter.gd<>uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png
-::res://Sprites/::1697965431
-pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png::CompressedTexture2D::1797323105366145486::1697799984::1697800042::1::::<><>::
-th-932838446.jpg::CompressedTexture2D::3477967405425236857::1697703993::1697703993::1::::<><>::
-::res://Sprites/Enemies/::1697965431
-290-1425191543.png::CompressedTexture2D::7233050758277080552::1697698193::1697698193::1::::<><>::
-latest-467068657.png::CompressedTexture2D::7043750470345638960::1697698198::1697698198::1::::<><>::
-::res://Sprites/Prototype/::1697965431
-Prototype_Worksheet.png::CompressedTexture2D::7423545199741954920::1697799984::1697800042::1::::<><>::
-shitgun.png::CompressedTexture2D::7769113211511402922::1697799984::1697800042::1::::<><>::
-::res://Sprites/Prototype/Enemy/::1697698179
-::res://Sprites/shitgun/::1697965431
-latest(1).png::CompressedTexture2D::835498642308121385::1697787305::1697787312::1::::<><>::
-latest.png::CompressedTexture2D::6021455988327668479::1697787305::1697787310::1::::<><>::
-shitgun.gd::GDScript::-1::1697799984::0::1::::<>Sprite2D<>::
-shitgun.tscn::PackedScene::7603942922779539377::1697799984::0::1::::<><>::uid://dixofonps7hgc
-::res://UI/::1697965431
-counter.tscn::PackedScene::6952325420543911863::1697803677::0::1::::<><>::uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png
-interface.tscn::PackedScene::6925438450313624084::1697803705::0::1::::<><>::uid://b2pv7n1kcbxfq::::res://UI/scrap counter/counter.tscn
-Scrap Counter.gd::GDScript::-1::1697802199::0::1::::<>Control<>::
-UI.gd::GDScript::-1::1697804348::0::1::::<>CanvasLayer<>::
-UI.tscn::PackedScene::8550659267390578892::1697804368::0::1::::<><>::res://UI/UI.gd<>uid://b2pv7n1kcbxfq::::res://UI/scrap counter/counter.tscn
-::res://UI/scrap counter/::1697965431
-counter.tscn::PackedScene::4313818053909484158::1697804225::0::1::::<><>::uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png
-::res://UI/Theme/::1697965431
-default_theme.tres::Theme::4002607533069070389::1697803310::0::1::::<><>::
-new_theme.tres::Theme::5921052836040252828::1697803064::0::1::::<><>::
+::res://::1698022475
+backup.gd::GDScript::-1::1697965768::0::1::::<>CharacterBody2D<>::
+bullet.gd::GDScript::-1::1697965768::0::1::::Bullet<>Area2D<>::
+CharacterBody2D.gd::GDScript::-1::1697965768::0::1::::TankEnemy<>CharacterBody2D<>::
+counter.tscn::PackedScene::5533668498629387787::1697965768::0::1::::<><>::uid://0uvwcgprjgli
+DashGhost.gd::GDScript::-1::1697965768::0::1::::<>Sprite2D<>::
+EnemtFollow.gd::GDScript::-1::1697965768::0::1::::<>Node<>::
+EnemtFollow.gd-folding-dcec50d17a393de5176cf03194a69f49.cfg::TextFile::-1::1697965768::0::1::::<><>::
+enemy.tscn::PackedScene::9028180205298565802::1697965768::0::1::::<><>::res://CharacterBody2D.gd<>res://State Machine.gd<>res://enemyIdle.gd<>uid://dq48awsgo21fk
+enemy.tscn-editstate-ec12bd2205a8e44213188668d747d7fa.cfg::TextFile::-1::1697965768::0::1::::<><>::
+enemy.tscn-folding-ec12bd2205a8e44213188668d747d7fa.cfg::TextFile::-1::1697965768::0::1::::<><>::
+EnemyFollow.gd::GDScript::-1::1697965768::0::1::::EnemyFollow<>State<>::
+EnemyFollow.gd-folding-d8c113baab66c1e39079f35bf511f2a8.cfg::TextFile::-1::1697965768::0::1::::<><>::
+enemyIdle.gd::GDScript::-1::1697965768::0::1::::EnemyIdle<>State<>::
+enemyIdle.gd-folding-d0cab8f0fa6017b3233adb2b5a1cca1d.cfg::TextFile::-1::1697965768::0::1::::<><>::
+global.gd::GDScript::-1::1697965768::0::1::::<>Node<>::
+global.tscn::PackedScene::7205804821945473192::1697965768::0::1::::<><>::res://global.gd
+icon.svg::CompressedTexture2D::3240902412466039527::1697965768::1697965808::1::::<><>::
+Readme.txt::TextFile::-1::1697965768::0::1::::<><>::
+State Machine.gd::GDScript::-1::1698022272::0::1::::<>Node<>::
+state.gd::GDScript::-1::1697965768::0::1::::State<>Node<>::
+TankEnemyFollow.gd::GDScript::-1::1697965768::0::1::::TankEnemyFollow<>State<>::
+UI.tscn::PackedScene::2443269481862278574::1697965768::0::1::::<><>::
+::res://bullet/::1697965768
+bf7-3067498896.png::CompressedTexture2D::292880352638607414::1697965768::1697965768::1::::<><>::
+bullet.tscn::PackedScene::28294036942449880::1697965768::0::1::::<><>::res://bullet.gd<>uid://bmf6go0s6t74f
+FoysSwZWAAwhDiQ.jpg::CompressedTexture2D::8834604797055728795::1697965768::1697965768::1::::<><>::
+latest-1768917016.png::CompressedTexture2D::8779986855311479939::1697965768::1697965768::1::::<><>::
+latest-2974687507.png::CompressedTexture2D::2012977674794184336::1697965768::1697965768::1::::<><>::
+::res://Characters/::1698022370
+Camera2D.gd::GDScript::-1::1697965768::0::1::::<>Camera2D<>::
+Character Sprite.gd::GDScript::-1::1697965768::0::1::::<>RefCounted<>::
+gun2.gd::GDScript::-1::1697965768::0::1::::<>Sprite2D<>::
+gun.gd::GDScript::-1::1697965768::0::1::::<>Sprite2D<>::
+player_character.gd::GDScript::-1::1697965768::0::1::::<>CharacterBody2D<>::
+player_character.tscn::PackedScene::5599093986936603226::1698022370::0::1::::<><>::uid://dd1ax72jm8kp1::::res://Sprites/Prototype/Prototype_Worksheet.png<>res://Characters/player_character.gd<>uid://dixofonps7hgc::::res://Sprites/Prototype/shitgun.png<>res://Characters/gun.gd<>res://Characters/gun2.gd<>res://Characters/Camera2D.gd<>res://Game Level/Label.gd
+Sprite2D2.gd::GDScript::-1::1697965768::0::1::::<>Sprite2D<>::
+::res://Dash Stuff/::1697965768
+DashGhost.tscn::PackedScene::203606188415509158::1697965768::0::1::::<><>::uid://dd1ax72jm8kp1
+::res://Enemy/::1698022370
+1200px-ChatGPT_logo.png::CompressedTexture2D::8344155348529443476::1697965768::1697965768::1::::<><>::
+BasicHealth.gd::GDScript::-1::1697965768::0::1::::<>Node<>::
+enemy.tscn::PackedScene::9028180205298565802::1698022370::0::1::::<><>::res://CharacterBody2D.gd<>uid://dbb0j3l1kbc3a::::res://Sprites/Enemies/290-1425191543.png<>res://State Machine.gd<>res://enemyIdle.gd<>res://EnemyFollow.gd
+TankEnemy.gd::GDScript::-1::1697965768::0::1::::BasicEnemy<>CharacterBody2D<>::
+TankEnemy.tscn::PackedScene::1523951089431238353::1698022370::0::1::::<><>::res://Enemy/TankEnemy.gd<>uid://c7mbsntbh0r0c::::res://Sprites/Enemies/latest-467068657.png<>res://State Machine.gd<>res://enemyIdle.gd<>res://EnemyFollow.gd<>res://TankEnemyFollow.gd
+TankHealth.gd::GDScript::-1::1697965768::0::1::::<>Node<>::
+::res://Extras/::1697965768
+Shadow.png::CompressedTexture2D::908524858125477478::1697965768::1697965768::1::::<><>::
+::res://Game Level/::1698022370
+game_level.tscn::PackedScene::2104395142847668569::1698022370::0::1::::<><>::uid://bmf6go0s6t74f::::res://icon.svg<>uid://cl1ii3qf1nkw5::::res://Characters/player_character.tscn<>uid://dfxpocgif0jdy::::res://Scrap Counter/scrap.tscn<>uid://dt3adx353558c::::res://UI/UI.tscn<>uid://vyhitcnh6vdp::::res://Enemy/TankEnemy.tscn<>uid://d1vk2re43vyra::::res://enemy.tscn
+Health.gd::GDScript::-1::1697965768::0::1::::Health<>BasicEnemy<>::
+Label.gd::GDScript::-1::1698022272::0::1::::<>Label<>::
+th-932838446.jpg::CompressedTexture2D::5311581243332317453::1697965768::1697965768::1::::<><>::
+::res://Scrap Counter/::1698022370
+Scrap Counter.gd::GDScript::-1::1697965768::0::1::::<>Label<>::
+scrap.gd::GDScript::-1::1697965768::0::1::::<>Area2D<>::
+scrap.tscn::PackedScene::7558622828305690426::1698022370::0::1::::<><>::res://Scrap Counter/scrap.gd<>uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png
+scrap_counter.tscn::PackedScene::6848431362750013487::1698022370::0::1::::<><>::res://Scrap Counter/Scrap Counter.gd<>uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png
+::res://Sprites/::1697965768
+pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png::CompressedTexture2D::1797323105366145486::1697965768::1697965768::1::::<><>::
+th-932838446.jpg::CompressedTexture2D::3477967405425236857::1697965768::1697965768::1::::<><>::
+::res://Sprites/Enemies/::1697965768
+290-1425191543.png::CompressedTexture2D::7233050758277080552::1697965768::1697965768::1::::<><>::
+latest-467068657.png::CompressedTexture2D::7043750470345638960::1697965768::1697965768::1::::<><>::
+::res://Sprites/Prototype/::1697965768
+Prototype_Worksheet.png::CompressedTexture2D::7423545199741954920::1697965768::1697965768::1::::<><>::
+shitgun.png::CompressedTexture2D::7769113211511402922::1697965768::1697965768::1::::<><>::
+::res://Sprites/shitgun/::1697965768
+latest(1).png::CompressedTexture2D::835498642308121385::1697965768::1697965768::1::::<><>::
+latest.png::CompressedTexture2D::6021455988327668479::1697965768::1697965768::1::::<><>::
+shitgun.gd::GDScript::-1::1697965768::0::1::::<>Sprite2D<>::
+shitgun.tscn::PackedScene::7603942922779539377::1697965768::0::1::::<><>::uid://dixofonps7hgc
+::res://UI/::1698022370
+counter.tscn::PackedScene::6952325420543911863::1697965768::0::1::::<><>::uid://0uvwcgprjgli
+interface.tscn::PackedScene::6925438450313624084::1697965768::0::1::::<><>::uid://b2pv7n1kcbxfq
+Scrap Counter.gd::GDScript::-1::1697965768::0::1::::<>Control<>::
+UI.gd::GDScript::-1::1698022230::0::1::::<>CanvasLayer<>::
+UI.tscn::PackedScene::8550659267390578892::1698022370::0::1::::<><>::res://UI/UI.gd<>uid://b2pv7n1kcbxfq::::res://UI/scrap counter/counter.tscn
+::res://UI/scrap counter/::1698022371
+counter.tscn::PackedScene::4313818053909484158::1698022371::0::1::::<><>::uid://0uvwcgprjgli::::res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png
+Label.gd::GDScript::-1::1698022370::0::1::::<>Label<>::
+::res://UI/Theme/::1697965768
+default_theme.tres::Theme::4002607533069070389::1697965768::0::1::::<><>::
+new_theme.tres::Theme::5921052836040252828::1697965768::0::1::::<><>::

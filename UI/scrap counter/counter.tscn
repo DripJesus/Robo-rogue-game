@@ -1,6 +1,7 @@
-[gd_scene load_steps=2 format=3 uid="uid://b2pv7n1kcbxfq"]
+[gd_scene load_steps=3 format=3 uid="uid://b2pv7n1kcbxfq"]
 
 [ext_resource type="Texture2D" uid="uid://0uvwcgprjgli" path="res://Sprites/pile_of_junk_large.d0437ef0f573c0122a0c81cdca93d094ab024015.png" id="1_ok728"]
+[ext_resource type="Script" path="res://UI/scrap counter/Label.gd" id="2_h6p3d"]
 
 [node name="scrap counter" type="NinePatchRect"]
 offset_right = 40.0
@@ -36,4 +37,5 @@ offset_right = 28.0
 offset_bottom = 6.0
 grow_horizontal = 0
 grow_vertical = 2
-text = "Counter:"
+text = "0"
+script = ExtResource("2_h6p3d")

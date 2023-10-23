@@ -1,16 +1,12 @@
-res://UI/Scrap Counter.tscn
+res://Game Level/game_level.tscn
 res://Game Level/Label.gd
 res://State Machine.gd
-res://Game Level/game_level.tscn
 res://Characters/player_character.tscn
 res://Scrap Counter/scrap.tscn
 res://Scrap Counter/scrap_counter.tscn
 res://Enemy/TankEnemy.tscn
 res://Enemy/enemy.tscn
-res://counter.tscn
-res://UI/Theme/default_theme.tres
-res://UI/counter.tscn
-res://UI/interface.tscn
 res://UI/UI.tscn
 res://UI/scrap counter/counter.tscn
+res://UI/scrap counter/Label.gd
 res://Characters/player_character.gd
